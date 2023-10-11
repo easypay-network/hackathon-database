@@ -1,0 +1,1486 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "inside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "position": {
+        "x": 1154.1351152743018,
+        "y": 556.0745954682668
+      },
+      "caption": "Osmosis",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://avatars.githubusercontent.com/u/79296913?s=48&v=4",
+        "networkId": "osmo-test-5",
+        "name": "Osmosis testnet"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00"
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 832.8618655060048,
+        "y": 619.9938953808092
+      },
+      "caption": "Osmo",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "osmo",
+        "logoUrl": "https://avatars.githubusercontent.com/u/79296913?s=48&v=4",
+        "denom": "uosmo"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 870.2274240253303,
+        "y": 945.9962758582063
+      },
+      "caption": "Ion",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "ion",
+        "logoUrl": "",
+        "denom": "uion"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 1906.0862854993054,
+        "y": 1281.8489690026374
+      },
+      "caption": "Name services",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Name services",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5174.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1726.0364747999272,
+        "y": 1281.8489690026374
+      },
+      "caption": "Donations",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Donations",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5165.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 1845.0760300263707,
+        "y": 1424.0826810429614
+      },
+      "caption": "Subscriptions",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Subscriptions",
+        "featured": "true",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5177.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1844.1948778009835,
+        "y": 1149.7225698415998
+      },
+      "caption": "Gift cards",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Gift cards",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5162.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 2017.9337014739945,
+        "y": 1424.0826810429614
+      },
+      "caption": "NFTs",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "NFTs",
+        "featured": "true",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5163.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 1991.9961077956787,
+        "y": 1149.7225698415998
+      },
+      "caption": "Token exchange",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Token exchange",
+        "featured": "true",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5164.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 1672.218358578747,
+        "y": 1424.0826810429614
+      },
+      "caption": "Education",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Education",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5166.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 2054.3526074580573,
+        "y": 1281.8489690026374
+      },
+      "caption": "Entertainments",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Entertainments",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5175.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 2160.065526919616,
+        "y": 1149.7225698415998
+      },
+      "caption": "Digital services",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Digital services",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5168.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 2227.198313232864,
+        "y": 1281.8489690026374
+      },
+      "caption": "Healthcare",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Healthcare",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5176.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 2190.791372921618,
+        "y": 1424.0826810429614
+      },
+      "caption": "18+",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "18+",
+        "featured": "true",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5170.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 1672.218358578747,
+        "y": 1577.3478171578633
+      },
+      "caption": "Custom contracts",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Custom contracts",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5171.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 1845.0760300263707,
+        "y": 1577.3478171578633
+      },
+      "caption": "DAOs",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "DAOs",
+        "featured": "true",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5172.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 2017.9337014739945,
+        "y": 1577.3478171578633
+      },
+      "caption": "Other",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Other",
+        "featured": "false",
+        "imageUrl": "https://teloedy.fra1.cdn.digitaloceanspaces.com/catalog/categories/IMG_5173.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 2.6926298078248037,
+        "y": 1577.3478171578633
+      },
+      "caption": "Donation to EasyPay team",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Donation to EasyPay team",
+        "description": "Bla-bla-bla... bla-bla.Bla-bla-bla... bla-bla.Bla-bla-bla... bla-bla.Bla-bla-bla... bla-bla.Bla-bla-bla... bla-bla.",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/team123.jpg",
+        "requestedAmount": "0.0314",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 1143.6778095325533,
+        "y": 1326.807311743474
+      },
+      "caption": "Personal donation to Alexandra",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Alexandra",
+        "description": "Bla-bla-bla3... bla-bla3.",
+        "tokenAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/alexandra123.jpg",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 1106.9361613780493,
+        "y": 1174.074406845307
+      },
+      "caption": "Personal donation to Daniel",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Daniel",
+        "description": "Bla-bla-bla2... bla-bla2.",
+        "tokenAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/daniel123.jpg",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": 1130.7898668622352,
+        "y": 1444.0543014120474
+      },
+      "caption": "Personal donation to Alexander",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Alexander",
+        "description": "Bla-bla-bla4... bla-bla4.",
+        "tokenAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/alex123.jpg",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": 1106.9361613780493,
+        "y": 1577.3478171578633
+      },
+      "caption": "Personal donation to Ihar",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Ihar",
+        "description": "Bla-bla-bla6... bla-bla6.",
+        "tokenAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/ihar123.jpg",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": 1297.7538661219749,
+        "y": 1677.1851672898879
+      },
+      "caption": "EasyPay7",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "EasyPay7",
+        "description": "Bla-bla-bla7... bla-bla7.",
+        "tokenAmount": "3.141592",
+        "imageUrl": "",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 1474.719320748679,
+        "y": 1947.7045264355552
+      },
+      "caption": "DAO DAO payroll",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "DAO DAO payroll",
+        "description": "Bla-bla-bla9... bla-bla9.",
+        "tokenAmount": "3.141592",
+        "imageUrl": "",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": 1672.218358578747,
+        "y": 1891.7993538925343
+      },
+      "caption": "EasyPay10",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "EasyPay10",
+        "description": "Bla-bla-bla10... bla-bla10.",
+        "tokenAmount": "3.141592",
+        "imageUrl": "",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": 273.78432311023516,
+        "y": 1444.0543014120474
+      },
+      "caption": "EasyPay team payroll invoice",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "EasyPay team payroll invoice",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://www.zenefits.com/workest/wp-content/uploads/2023/01/compensation-vs-salary.jpg",
+        "requestedAmount": "0.03",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": 47.123982098191256,
+        "y": 1313.1918925141313
+      },
+      "caption": "",
+      "labels": [
+        "email"
+      ],
+      "properties": {
+        "address": "dharapko@gmail.com"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n45",
+      "position": {
+        "x": 179.73163633407296,
+        "y": 1118.6467063337163
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "osmo1v75ufqsddpeq38yphd89ztyt8gg2v73hx679yc"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n47",
+      "position": {
+        "x": 524.4627509138428,
+        "y": 1351.563640446726
+      },
+      "caption": "Invoice to Alexandra",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "Invoice to Alexandra",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://www.zenefits.com/workest/wp-content/uploads/2023/01/compensation-vs-salary.jpg",
+        "requestedAmount": "0.01",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n48",
+      "position": {
+        "x": 1845.0760300263707,
+        "y": 771.5489985343551
+      },
+      "caption": "Akash web services",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Akash web services",
+        "description": "Bla-bla-bla9... bla-bla9.",
+        "tokenAmount": "3.141592",
+        "imageUrl": "",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": 1685.9035944892958,
+        "y": 820.3846521379124
+      },
+      "caption": "Amazon $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Amazon $100 gift card",
+        "description": "Bla-bla-bla9... bla-bla9.",
+        "tokenAmount": "3.141592",
+        "imageUrl": "",
+        "recipientAddress": "",
+        "contractAddress": "null",
+        "tokenId": "null",
+        "listingDatetime": "2023-02-01T10:10:10Z",
+        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n50",
+      "position": {
+        "x": 1083.528771970902,
+        "y": -129.92140460979294
+      },
+      "caption": "Axelar testnet",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://avatars.githubusercontent.com/u/67522309?s=200&v=4",
+        "networkId": "axelar-testnet-lisbon-3",
+        "name": "Axelar testnet"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00"
+      }
+    },
+    {
+      "id": "n51",
+      "position": {
+        "x": 943.8274849941331,
+        "y": 112.04832231673123
+      },
+      "caption": "AXL",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "AXL",
+        "logoUrl": "https://avatars.githubusercontent.com/u/67522309?s=200&v=4",
+        "denom": "uaxl"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n52",
+      "position": {
+        "x": 1358.6585572123997,
+        "y": 351.55115353016856
+      },
+      "caption": "AXL",
+      "labels": [
+        "derivative"
+      ],
+      "properties": {
+        "denomTrace": "channel-3",
+        "originalTicker": "AXL",
+        "denom": "ibc/9463E39D230614B313B487836D13A392BD1731928713D4C8427A083627048DB3",
+        "localTicker": "AXL",
+        "logoUrl": "https://avatars.githubusercontent.com/u/67522309?s=200&v=4"
+      },
+      "style": {
+        "radius": 35,
+        "node-color": "#68ccca",
+        "border-color": "#000000"
+      }
+    },
+    {
+      "id": "n53",
+      "position": {
+        "x": 1672.218358578747,
+        "y": 494.8214603245988
+      },
+      "caption": "Neutron",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://avatars.githubusercontent.com/u/108675945?s=200&v=4",
+        "networkId": "pion-1",
+        "name": "Neutron testnet"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00"
+      }
+    },
+    {
+      "id": "n54",
+      "position": {
+        "x": 1474.719320748679,
+        "y": 152.74309235695318
+      },
+      "caption": "Osmo",
+      "labels": [
+        "derivative"
+      ],
+      "properties": {
+        "denomTrace": "channel-186",
+        "originalTicker": "osmo",
+        "denom": "ibc/019C73BE498E2DE76DAE2A47F966C8560528584BD5CC73E148FF7C567C0EFFD0",
+        "localTicker": "osmo",
+        "logoUrl": "https://avatars.githubusercontent.com/u/79296913?s=48&v=4"
+      },
+      "style": {
+        "radius": 35,
+        "node-color": "#68ccca",
+        "border-color": "#000000"
+      }
+    },
+    {
+      "id": "n55",
+      "position": {
+        "x": 1906.0862854993054,
+        "y": 218.29197098482052
+      },
+      "caption": "NTRN",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "NTRN",
+        "logoUrl": "https://avatars.githubusercontent.com/u/108675945?s=200&v=4",
+        "denom": "untrn"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n56",
+      "position": {
+        "x": 2190.791372921618,
+        "y": 382.62428545701425
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "neutron1v75ufqsddpeq38yphd89ztyt8gg2v73h27yhgd"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n57",
+      "position": {
+        "x": 1991.9961077956787,
+        "y": 619.9938953808092
+      },
+      "caption": "Invoice to Alex",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "Invoice to Alex",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://www.zenefits.com/workest/wp-content/uploads/2023/01/compensation-vs-salary.jpg",
+        "requestedAmount": "1.58",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n58",
+      "position": {
+        "x": 2227.198313232864,
+        "y": 619.9938953808092
+      },
+      "caption": "Invoice to Ihar",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "Invoice to Ihar",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://www.zenefits.com/workest/wp-content/uploads/2023/01/compensation-vs-salary.jpg",
+        "requestedAmount": "1.14",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n59",
+      "position": {
+        "x": 496.422034753029,
+        "y": 556.0745954682668
+      },
+      "caption": "Solana testnet",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "networkId": "solana_testnet",
+        "name": "Solana testnet"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00"
+      }
+    },
+    {
+      "id": "n60",
+      "position": {
+        "x": 548.7630767493054,
+        "y": 820.3846521379124
+      },
+      "caption": "SLIM",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "SLIM",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/9741.png",
+        "denom": "uslim"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n61",
+      "position": {
+        "x": 243.74134855562812,
+        "y": 919.6718303641441
+      },
+      "caption": "USDT",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "USDT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "denom": "uusdt"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n62",
+      "position": {
+        "x": -205.53898176272463,
+        "y": 1258.0356119840205
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "8qiaVqQyRRqd992nqjjaN3rJjGVVgjHrRD7KBzbqbfaP"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n63",
+      "position": {
+        "x": 2.6926298078248037,
+        "y": 708.0313011160167
+      },
+      "caption": "SOL",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "SOL",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "denom": "usol"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n38",
+      "fromId": "n3",
+      "toId": "n1",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "fromId": "n14",
+      "toId": "n1",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n53",
+      "fromId": "n3",
+      "toId": "n14",
+      "type": "exchange",
+      "properties": {
+        "cost": "1"
+      },
+      "style": {}
+    },
+    {
+      "id": "n54",
+      "fromId": "n14",
+      "toId": "n3",
+      "type": "exchange",
+      "properties": {
+        "cost": "1"
+      },
+      "style": {}
+    },
+    {
+      "id": "n56",
+      "fromId": "n30",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n62",
+      "fromId": "n34",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n63",
+      "fromId": "n34",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n64",
+      "fromId": "n35",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n65",
+      "fromId": "n35",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n66",
+      "fromId": "n36",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n67",
+      "fromId": "n36",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n68",
+      "fromId": "n37",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n69",
+      "fromId": "n37",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "fromId": "n39",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n76",
+      "fromId": "n41",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n78",
+      "fromId": "n42",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n79",
+      "fromId": "n42",
+      "toId": "n26",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n80",
+      "fromId": "n41",
+      "toId": "n28",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n81",
+      "fromId": "n39",
+      "toId": "n27",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n82",
+      "fromId": "n43",
+      "toId": "n3",
+      "type": "requested",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n83",
+      "fromId": "n43",
+      "toId": "n45",
+      "type": "receiver",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n84",
+      "fromId": "n43",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n85",
+      "fromId": "n45",
+      "toId": "n1",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n90",
+      "fromId": "n30",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n91",
+      "fromId": "n47",
+      "toId": "n3",
+      "type": "requested",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n92",
+      "fromId": "n47",
+      "toId": "n45",
+      "type": "receiver",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n93",
+      "fromId": "n47",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n94",
+      "fromId": "n48",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n96",
+      "fromId": "n48",
+      "toId": "n24",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n97",
+      "fromId": "n49",
+      "toId": "n3",
+      "type": "paymentMethod",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n98",
+      "fromId": "n49",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n99",
+      "fromId": "n51",
+      "toId": "n50",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n100",
+      "fromId": "n52",
+      "toId": "n1",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n101",
+      "fromId": "n51",
+      "toId": "n52",
+      "type": "ibcTransfer",
+      "properties": {
+        "inputChannel": "channel-227",
+        "outputChannel": "channel-3",
+        "cost": "1"
+      },
+      "style": {}
+    },
+    {
+      "id": "n102",
+      "fromId": "n52",
+      "toId": "n51",
+      "type": "ibcTransfer",
+      "properties": {
+        "inputChannel": "channel-3",
+        "outputChannel": "channel-227",
+        "cost": "1"
+      },
+      "style": {}
+    },
+    {
+      "id": "n103",
+      "fromId": "n54",
+      "toId": "n53",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n104",
+      "fromId": "n3",
+      "toId": "n54",
+      "type": "ibcTransfer",
+      "properties": {
+        "inputChannel": "channel-3515",
+        "outputChannel": "channel-186",
+        "cost": "1"
+      },
+      "style": {}
+    },
+    {
+      "id": "n105",
+      "fromId": "n54",
+      "toId": "n3",
+      "type": "ibcTransfer",
+      "properties": {
+        "inputChannel": "channel-186",
+        "outputChannel": "channel-3515",
+        "cost": "1"
+      },
+      "style": {}
+    },
+    {
+      "id": "n106",
+      "fromId": "n55",
+      "toId": "n53",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n107",
+      "fromId": "n56",
+      "toId": "n53",
+      "type": "located",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n108",
+      "fromId": "n57",
+      "toId": "n55",
+      "type": "requested",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n109",
+      "fromId": "n57",
+      "toId": "n56",
+      "type": "receiver",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n110",
+      "fromId": "n57",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n112",
+      "fromId": "n58",
+      "toId": "n56",
+      "type": "receiver",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n113",
+      "fromId": "n58",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n114",
+      "fromId": "n58",
+      "toId": "n54",
+      "type": "requested",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n115",
+      "type": "located",
+      "style": {},
+      "properties": {},
+      "fromId": "n60",
+      "toId": "n59"
+    },
+    {
+      "id": "n116",
+      "type": "located",
+      "style": {},
+      "properties": {},
+      "fromId": "n61",
+      "toId": "n59"
+    },
+    {
+      "id": "n117",
+      "type": "located",
+      "style": {},
+      "properties": {},
+      "fromId": "n62",
+      "toId": "n59"
+    },
+    {
+      "id": "n118",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n62"
+    },
+    {
+      "id": "n119",
+      "type": "located",
+      "style": {},
+      "properties": {},
+      "fromId": "n63",
+      "toId": "n59"
+    },
+    {
+      "id": "n120",
+      "type": "exchange",
+      "style": {},
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n63",
+      "toId": "n61"
+    },
+    {
+      "id": "n121",
+      "type": "exchange",
+      "style": {},
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n61",
+      "toId": "n63"
+    },
+    {
+      "id": "n122",
+      "type": "exchange",
+      "style": {},
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n61",
+      "toId": "n60"
+    },
+    {
+      "id": "n123",
+      "type": "exchange",
+      "style": {},
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n60",
+      "toId": "n61"
+    },
+    {
+      "id": "n124",
+      "type": "requested",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n63"
+    }
+  ]
+}
