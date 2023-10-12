@@ -56,8 +56,8 @@
     {
       "id": "n1",
       "position": {
-        "x": 1154.1351152743018,
-        "y": 556.0745954682668
+        "x": 1404.7255784954673,
+        "y": 587.5221181093008
       },
       "caption": "Osmosis",
       "labels": [
@@ -77,8 +77,8 @@
     {
       "id": "n3",
       "position": {
-        "x": 832.8618655060048,
-        "y": 619.9938953808092
+        "x": 1027.1667776874767,
+        "y": 750.4798980328981
       },
       "caption": "Osmo",
       "labels": [
@@ -97,8 +97,8 @@
     {
       "id": "n14",
       "position": {
-        "x": 870.2274240253303,
-        "y": 945.9962758582063
+        "x": 1297.7538661219749,
+        "y": 984.5900453674442
       },
       "caption": "Ion",
       "labels": [
@@ -405,8 +405,8 @@
     {
       "id": "n34",
       "position": {
-        "x": 1143.6778095325533,
-        "y": 1326.807311743474
+        "x": 807.5376142467976,
+        "y": 1094.9425861777079
       },
       "caption": "Personal donation to Alexandra",
       "labels": [
@@ -415,13 +415,10 @@
       "properties": {
         "title": "Personal donation to Alexandra",
         "description": "Bla-bla-bla3... bla-bla3.",
-        "tokenAmount": "0.031415",
+        "requestedAmount": "0.031415",
         "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/alexandra123.jpg",
-        "recipientAddress": "",
-        "contractAddress": "null",
-        "tokenId": "null",
-        "listingDatetime": "2023-02-01T10:10:10Z",
-        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
       },
       "style": {
         "node-color": "#aea1ff"
@@ -430,8 +427,8 @@
     {
       "id": "n35",
       "position": {
-        "x": 1106.9361613780493,
-        "y": 1174.074406845307
+        "x": 116.64301089782768,
+        "y": 1816.07119255588
       },
       "caption": "Personal donation to Daniel",
       "labels": [
@@ -440,13 +437,10 @@
       "properties": {
         "title": "Personal donation to Daniel",
         "description": "Bla-bla-bla2... bla-bla2.",
-        "tokenAmount": "0.031415",
+        "requestedAmount": "0.031415",
         "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/daniel123.jpg",
-        "recipientAddress": "",
-        "contractAddress": "null",
-        "tokenId": "null",
-        "listingDatetime": "2023-02-01T10:10:10Z",
-        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
       },
       "style": {
         "node-color": "#aea1ff"
@@ -455,8 +449,8 @@
     {
       "id": "n36",
       "position": {
-        "x": 1130.7898668622352,
-        "y": 1444.0543014120474
+        "x": 640.146369133781,
+        "y": 1281.8489690026374
       },
       "caption": "Personal donation to Alexander",
       "labels": [
@@ -465,13 +459,10 @@
       "properties": {
         "title": "Personal donation to Alexander",
         "description": "Bla-bla-bla4... bla-bla4.",
-        "tokenAmount": "0.031415",
+        "requestedAmount": "0.031415",
         "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/alex123.jpg",
-        "recipientAddress": "",
-        "contractAddress": "null",
-        "tokenId": "null",
-        "listingDatetime": "2023-02-01T10:10:10Z",
-        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
       },
       "style": {
         "node-color": "#aea1ff"
@@ -480,8 +471,8 @@
     {
       "id": "n37",
       "position": {
-        "x": 1106.9361613780493,
-        "y": 1577.3478171578633
+        "x": 312.49874862405056,
+        "y": 1387.1098928766858
       },
       "caption": "Personal donation to Ihar",
       "labels": [
@@ -490,13 +481,10 @@
       "properties": {
         "title": "Personal donation to Ihar",
         "description": "Bla-bla-bla6... bla-bla6.",
-        "tokenAmount": "0.031415",
+        "requestedAmount": "0.031415",
         "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/ihar123.jpg",
-        "recipientAddress": "",
-        "contractAddress": "null",
-        "tokenId": "null",
-        "listingDatetime": "2023-02-01T10:10:10Z",
-        "listingUntilDatetime": "2023-12-15T19:20:33Z"
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
       },
       "style": {
         "node-color": "#aea1ff"
@@ -580,8 +568,8 @@
     {
       "id": "n43",
       "position": {
-        "x": 273.78432311023516,
-        "y": 1444.0543014120474
+        "x": -246.6183066576458,
+        "y": 1030.4820383800798
       },
       "caption": "EasyPay team payroll invoice",
       "labels": [
@@ -605,8 +593,8 @@
     {
       "id": "n44",
       "position": {
-        "x": 47.123982098191256,
-        "y": 1313.1918925141313
+        "x": 706.9134531840381,
+        "y": 1781.5245974366733
       },
       "caption": "",
       "labels": [
@@ -622,8 +610,8 @@
     {
       "id": "n45",
       "position": {
-        "x": 179.73163633407296,
-        "y": 1118.6467063337163
+        "x": 1436.1174815276834,
+        "y": 965.5061116060242
       },
       "caption": "",
       "labels": [
@@ -639,8 +627,8 @@
     {
       "id": "n47",
       "position": {
-        "x": 524.4627509138428,
-        "y": 1351.563640446726
+        "x": -126.4739903876534,
+        "y": 1356.0806551209066
       },
       "caption": "Invoice to Alexandra",
       "labels": [
@@ -664,8 +652,8 @@
     {
       "id": "n48",
       "position": {
-        "x": 1845.0760300263707,
-        "y": 771.5489985343551
+        "x": 1955.2281576755454,
+        "y": 944.8852005975293
       },
       "caption": "Akash web services",
       "labels": [
@@ -689,8 +677,8 @@
     {
       "id": "n49",
       "position": {
-        "x": 1685.9035944892958,
-        "y": 820.3846521379124
+        "x": 1672.218358578747,
+        "y": 977.7460506193634
       },
       "caption": "Amazon $100 gift card",
       "labels": [
@@ -714,8 +702,8 @@
     {
       "id": "n50",
       "position": {
-        "x": 1083.528771970902,
-        "y": -129.92140460979294
+        "x": 1071.4582552929148,
+        "y": 97.46409564624324
       },
       "caption": "Axelar testnet",
       "labels": [
@@ -735,8 +723,8 @@
     {
       "id": "n51",
       "position": {
-        "x": 943.8274849941331,
-        "y": 112.04832231673123
+        "x": 1297.7538661219749,
+        "y": -128.83151518281693
       },
       "caption": "AXL",
       "labels": [
@@ -755,8 +743,8 @@
     {
       "id": "n52",
       "position": {
-        "x": 1358.6585572123997,
-        "y": 351.55115353016856
+        "x": 1436.1174815276834,
+        "y": 338.95805238807253
       },
       "caption": "AXL",
       "labels": [
@@ -799,8 +787,8 @@
     {
       "id": "n54",
       "position": {
-        "x": 1474.719320748679,
-        "y": 152.74309235695318
+        "x": 1758.4608522664503,
+        "y": 708.0313011160167
       },
       "caption": "Osmo",
       "labels": [
@@ -909,8 +897,8 @@
     {
       "id": "n59",
       "position": {
-        "x": 496.422034753029,
-        "y": 556.0745954682668
+        "x": 573.3532327014846,
+        "y": 532.8279718771244
       },
       "caption": "Solana testnet",
       "labels": [
@@ -930,8 +918,8 @@
     {
       "id": "n60",
       "position": {
-        "x": 548.7630767493054,
-        "y": 820.3846521379124
+        "x": 640.146369133781,
+        "y": 833.2999320400876
       },
       "caption": "SLIM",
       "labels": [
@@ -950,8 +938,8 @@
     {
       "id": "n61",
       "position": {
-        "x": 243.74134855562812,
-        "y": 919.6718303641441
+        "x": 253.40249519361274,
+        "y": 852.7787093849963
       },
       "caption": "USDT",
       "labels": [
@@ -960,7 +948,7 @@
       "properties": {
         "ticker": "USDT",
         "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
-        "denom": "uusdt"
+        "denom": "ususdt"
       },
       "style": {
         "node-color": "#73d8ff",
@@ -970,8 +958,8 @@
     {
       "id": "n62",
       "position": {
-        "x": -205.53898176272463,
-        "y": 1258.0356119840205
+        "x": 185.30645525926053,
+        "y": 1094.9425861777079
       },
       "caption": "",
       "labels": [
@@ -1003,6 +991,224 @@
         "node-color": "#73d8ff",
         "border-color": "#0062b1"
       }
+    },
+    {
+      "id": "n64",
+      "position": {
+        "x": 70.5454533123718,
+        "y": 367.60295846074604
+      },
+      "caption": "USDC",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "USDC",
+        "logoUrl": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+        "denom": "ususdc"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n65",
+      "position": {
+        "x": 401.43686040564467,
+        "y": 309.2870705181969
+      },
+      "caption": "bSOL",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "bSOL",
+        "logoUrl": "https://assets.coingecko.com/coins/images/26636/standard/blazesolana.png?1696525709",
+        "denom": "ubsol"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n66",
+      "position": {
+        "x": 496.422034753029,
+        "y": 1816.07119255588
+      },
+      "caption": "",
+      "labels": [
+        "email"
+      ],
+      "properties": {
+        "address": "dziki.corp@gmail.com"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n67",
+      "position": {
+        "x": 401.43686040564467,
+        "y": 1030.4820383800798
+      },
+      "caption": "",
+      "style": {
+        "node-color": "#999999"
+      },
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "3W7ikLQxSYmGng7of1toBaZHRBKaeKTpLLfT2vnWvVPW"
+      }
+    },
+    {
+      "id": "n68",
+      "position": {
+        "x": 807.5376142467976,
+        "y": 296.89316313846507
+      },
+      "caption": "Ethereum sepolia testnet",
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00"
+      },
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "networkId": "ethereum-sepolia-testnet",
+        "name": "Ethereum sepolia testnet"
+      }
+    },
+    {
+      "id": "n69",
+      "position": {
+        "x": 1046.6635965655576,
+        "y": 494.8214603245988
+      },
+      "caption": "ETH",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "ETH",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "denom": "ueth"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n70",
+      "position": {
+        "x": 791.0051588572583,
+        "y": 750.4798980328981
+      },
+      "caption": "ETH",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "ETH",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "denom": "usoleth"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n71",
+      "position": {
+        "x": 706.9134531840381,
+        "y": 28.251863754018085
+      },
+      "caption": "USDC",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "USDC",
+        "logoUrl": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+        "denom": "ueusdc"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n72",
+      "position": {
+        "x": 807.5376142467976,
+        "y": 587.5221181093008
+      },
+      "caption": "USDT",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "USDT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "denom": "ueusdt"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n73",
+      "position": {
+        "x": 1297.7538661219749,
+        "y": 309.2870705181969
+      },
+      "caption": "ETH",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "ETH",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "denom": "uaeth"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n74",
+      "position": {
+        "x": 1157.1726688628767,
+        "y": 532.8279718771244
+      },
+      "caption": "ETH",
+      "labels": [
+        "derivative"
+      ],
+      "properties": {
+        "denomTrace": "channel-3",
+        "originalTicker": "ETH",
+        "denom": "ibc/94...35",
+        "localTicker": "ETH",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      },
+      "style": {
+        "radius": 35,
+        "node-color": "#68ccca",
+        "border-color": "#000000"
+      }
     }
   ],
   "relationships": [
@@ -1012,7 +1218,9 @@
       "toId": "n1",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n39",
@@ -1020,7 +1228,9 @@
       "toId": "n1",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n53",
@@ -1030,7 +1240,9 @@
       "properties": {
         "cost": "1"
       },
-      "style": {}
+      "style": {
+        "arrow-color": "#9f0500"
+      }
     },
     {
       "id": "n54",
@@ -1040,7 +1252,9 @@
       "properties": {
         "cost": "1"
       },
-      "style": {}
+      "style": {
+        "arrow-color": "#9f0500"
+      }
     },
     {
       "id": "n56",
@@ -1048,15 +1262,9 @@
       "toId": "n17",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n62",
-      "fromId": "n34",
-      "toId": "n3",
-      "type": "paymentMethod",
-      "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n63",
@@ -1064,15 +1272,9 @@
       "toId": "n17",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n64",
-      "fromId": "n35",
-      "toId": "n3",
-      "type": "paymentMethod",
-      "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n65",
@@ -1080,15 +1282,9 @@
       "toId": "n17",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n66",
-      "fromId": "n36",
-      "toId": "n3",
-      "type": "paymentMethod",
-      "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n67",
@@ -1096,15 +1292,9 @@
       "toId": "n17",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n68",
-      "fromId": "n37",
-      "toId": "n3",
-      "type": "paymentMethod",
-      "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n69",
@@ -1112,7 +1302,9 @@
       "toId": "n17",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n72",
@@ -1144,7 +1336,9 @@
       "toId": "n26",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n80",
@@ -1152,7 +1346,9 @@
       "toId": "n28",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n81",
@@ -1160,23 +1356,9 @@
       "toId": "n27",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n82",
-      "fromId": "n43",
-      "toId": "n3",
-      "type": "requested",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n83",
-      "fromId": "n43",
-      "toId": "n45",
-      "type": "receiver",
-      "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n84",
@@ -1192,29 +1374,15 @@
       "toId": "n1",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n90",
       "fromId": "n30",
       "toId": "n44",
       "type": "requester",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n91",
-      "fromId": "n47",
-      "toId": "n3",
-      "type": "requested",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n92",
-      "fromId": "n47",
-      "toId": "n45",
-      "type": "receiver",
       "properties": {},
       "style": {}
     },
@@ -1240,7 +1408,9 @@
       "toId": "n24",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n97",
@@ -1256,7 +1426,9 @@
       "toId": "n19",
       "type": "relatedCategory",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#999999"
+      }
     },
     {
       "id": "n99",
@@ -1264,7 +1436,9 @@
       "toId": "n50",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n100",
@@ -1272,7 +1446,9 @@
       "toId": "n1",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n101",
@@ -1284,7 +1460,9 @@
         "outputChannel": "channel-3",
         "cost": "1"
       },
-      "style": {}
+      "style": {
+        "arrow-color": "#ab149e"
+      }
     },
     {
       "id": "n102",
@@ -1296,7 +1474,9 @@
         "outputChannel": "channel-227",
         "cost": "1"
       },
-      "style": {}
+      "style": {
+        "arrow-color": "#ab149e"
+      }
     },
     {
       "id": "n103",
@@ -1304,7 +1484,9 @@
       "toId": "n53",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n104",
@@ -1316,7 +1498,9 @@
         "outputChannel": "channel-186",
         "cost": "1"
       },
-      "style": {}
+      "style": {
+        "arrow-color": "#ab149e"
+      }
     },
     {
       "id": "n105",
@@ -1328,7 +1512,9 @@
         "outputChannel": "channel-3515",
         "cost": "1"
       },
-      "style": {}
+      "style": {
+        "arrow-color": "#ab149e"
+      }
     },
     {
       "id": "n106",
@@ -1336,7 +1522,9 @@
       "toId": "n53",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n107",
@@ -1344,7 +1532,9 @@
       "toId": "n53",
       "type": "located",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#cccccc"
+      }
     },
     {
       "id": "n108",
@@ -1352,7 +1542,9 @@
       "toId": "n55",
       "type": "requested",
       "properties": {},
-      "style": {}
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
     },
     {
       "id": "n109",
@@ -1397,7 +1589,9 @@
     {
       "id": "n115",
       "type": "located",
-      "style": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      },
       "properties": {},
       "fromId": "n60",
       "toId": "n59"
@@ -1405,7 +1599,9 @@
     {
       "id": "n116",
       "type": "located",
-      "style": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      },
       "properties": {},
       "fromId": "n61",
       "toId": "n59"
@@ -1413,7 +1609,9 @@
     {
       "id": "n117",
       "type": "located",
-      "style": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      },
       "properties": {},
       "fromId": "n62",
       "toId": "n59"
@@ -1429,7 +1627,9 @@
     {
       "id": "n119",
       "type": "located",
-      "style": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      },
       "properties": {},
       "fromId": "n63",
       "toId": "n59"
@@ -1437,7 +1637,9 @@
     {
       "id": "n120",
       "type": "exchange",
-      "style": {},
+      "style": {
+        "arrow-color": "#9f0500"
+      },
       "properties": {
         "cost": "1"
       },
@@ -1447,7 +1649,9 @@
     {
       "id": "n121",
       "type": "exchange",
-      "style": {},
+      "style": {
+        "arrow-color": "#9f0500"
+      },
       "properties": {
         "cost": "1"
       },
@@ -1457,7 +1661,9 @@
     {
       "id": "n122",
       "type": "exchange",
-      "style": {},
+      "style": {
+        "arrow-color": "#9f0500"
+      },
       "properties": {
         "cost": "1"
       },
@@ -1467,7 +1673,9 @@
     {
       "id": "n123",
       "type": "exchange",
-      "style": {},
+      "style": {
+        "arrow-color": "#9f0500"
+      },
       "properties": {
         "cost": "1"
       },
@@ -1477,10 +1685,486 @@
     {
       "id": "n124",
       "type": "requested",
-      "style": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
       "properties": {},
       "fromId": "n30",
       "toId": "n63"
+    },
+    {
+      "id": "n125",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n64",
+      "toId": "n59"
+    },
+    {
+      "id": "n126",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n65",
+      "toId": "n59"
+    },
+    {
+      "id": "n127",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n65",
+      "toId": "n63"
+    },
+    {
+      "id": "n128",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n63",
+      "toId": "n65"
+    },
+    {
+      "id": "n129",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n63",
+      "toId": "n64"
+    },
+    {
+      "id": "n130",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n64",
+      "toId": "n63"
+    },
+    {
+      "id": "n131",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n35",
+      "toId": "n64"
+    },
+    {
+      "id": "n132",
+      "type": "requester",
+      "style": {},
+      "properties": {},
+      "fromId": "n35",
+      "toId": "n44"
+    },
+    {
+      "id": "n133",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n35",
+      "toId": "n62"
+    },
+    {
+      "id": "n134",
+      "type": "requester",
+      "style": {},
+      "properties": {},
+      "fromId": "n36",
+      "toId": "n66"
+    },
+    {
+      "id": "n135",
+      "type": "located",
+      "fromId": "n67",
+      "toId": "n59",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {}
+    },
+    {
+      "id": "n136",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n36",
+      "toId": "n67"
+    },
+    {
+      "id": "n137",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n36",
+      "toId": "n60"
+    },
+    {
+      "id": "n138",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n34",
+      "toId": "n61"
+    },
+    {
+      "id": "n139",
+      "type": "requester",
+      "style": {},
+      "properties": {},
+      "fromId": "n34",
+      "toId": "n44"
+    },
+    {
+      "id": "n140",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n34",
+      "toId": "n62"
+    },
+    {
+      "id": "n141",
+      "type": "requester",
+      "style": {},
+      "properties": {},
+      "fromId": "n37",
+      "toId": "n44"
+    },
+    {
+      "id": "n142",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n37",
+      "toId": "n65"
+    },
+    {
+      "id": "n143",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n37",
+      "toId": "n62"
+    },
+    {
+      "id": "n144",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n47",
+      "toId": "n63"
+    },
+    {
+      "id": "n145",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n47",
+      "toId": "n62"
+    },
+    {
+      "id": "n146",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n43",
+      "toId": "n64"
+    },
+    {
+      "id": "n147",
+      "type": "receiver",
+      "style": {},
+      "properties": {},
+      "fromId": "n43",
+      "toId": "n62"
+    },
+    {
+      "id": "n148",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n69",
+      "toId": "n68"
+    },
+    {
+      "id": "n149",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n70",
+      "toId": "n59"
+    },
+    {
+      "id": "n150",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n70",
+      "toId": "n69"
+    },
+    {
+      "id": "n151",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n69",
+      "toId": "n70"
+    },
+    {
+      "id": "n152",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n71",
+      "toId": "n68"
+    },
+    {
+      "id": "n153",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n64",
+      "toId": "n71"
+    },
+    {
+      "id": "n154",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n71",
+      "toId": "n64"
+    },
+    {
+      "id": "n155",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n72",
+      "toId": "n68"
+    },
+    {
+      "id": "n156",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n61",
+      "toId": "n72"
+    },
+    {
+      "id": "n157",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n72",
+      "toId": "n61"
+    },
+    {
+      "id": "n158",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n73",
+      "toId": "n50"
+    },
+    {
+      "id": "n159",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n69",
+      "toId": "n73"
+    },
+    {
+      "id": "n160",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n73",
+      "toId": "n69"
+    },
+    {
+      "id": "n161",
+      "type": "located",
+      "style": {
+        "arrow-color": "#999999"
+      },
+      "properties": {},
+      "fromId": "n74",
+      "toId": "n1"
+    },
+    {
+      "id": "n162",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n74",
+      "toId": "n73"
+    },
+    {
+      "id": "n163",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {},
+      "fromId": "n73",
+      "toId": "n74"
+    },
+    {
+      "id": "n164",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n3",
+      "toId": "n74"
+    },
+    {
+      "id": "n165",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n74",
+      "toId": "n3"
+    },
+    {
+      "id": "n166",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n54",
+      "toId": "n55"
+    },
+    {
+      "id": "n167",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n55",
+      "toId": "n54"
+    },
+    {
+      "id": "n168",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n3",
+      "toId": "n52"
+    },
+    {
+      "id": "n169",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n52",
+      "toId": "n3"
+    },
+    {
+      "id": "n170",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n70",
+      "toId": "n63"
+    },
+    {
+      "id": "n171",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n63",
+      "toId": "n70"
     }
   ]
 }
